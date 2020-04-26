@@ -1,0 +1,8 @@
+data/org.gnome.Jj.desktop.in
+data/org.gnome.Jj.appdata.xml.in
+data/org.gnome.Jj.gschema.xml
+src/window.uisrc/main.vala
+src/App.vala
+src/Lienzo.vala
+src/Tools.vala
+src/Window.vala

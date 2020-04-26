@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Pintor
+Exec=com.github.djmbdv.pintor
+Terminal=false
+Type=Application
+Categories=GTK,Graphics;
+StartupNotify=true

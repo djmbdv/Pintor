@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="jj">
+	<schema id="com.github.djmbdv.pintor" path="/com/github/djmbdv/pintor">
+	</schema>
+</schemalist>
